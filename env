@@ -6,4 +6,4 @@ RESEND_FROM_EMAIL="RemoteRefined <hello@your-verified-domain.com>"
 
 # CMS / Admin Dashboard — choose a strong, unique password.
 # This is intentionally blank. Do not commit your real .env file.
-ADMIN_PASSWORD=
+ADMIN_PASSWORD="12345678"
