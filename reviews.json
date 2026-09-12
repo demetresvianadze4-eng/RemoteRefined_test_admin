@@ -1,0 +1,134 @@
+[
+  {
+    "id": "atlas-mesh-pro",
+    "category": "chairs",
+    "title": "Atlas Mesh Pro",
+    "score": 9.2,
+    "art": "↟",
+    "copy": "A deeply adjustable task chair that makes long, focused days feel lighter.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "northline-task-chair",
+    "category": "chairs",
+    "title": "Northline Task Chair",
+    "score": 8.7,
+    "art": "◒",
+    "copy": "The rare compact chair that still gets lumbar support and movement right.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "form-work-lounge",
+    "category": "chairs",
+    "title": "Form Work Lounge",
+    "score": 8.5,
+    "art": "⌁",
+    "copy": "A relaxed, design-forward seat for the hybrid office corner.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "field-standing-desk",
+    "category": "desks",
+    "title": "Field Standing Desk",
+    "score": 9,
+    "art": "—",
+    "copy": "An exceptionally steady sit-stand desk with a quiet, unfussy control system.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "oakline-lift",
+    "category": "desks",
+    "title": "Oakline Lift",
+    "score": 8.8,
+    "art": "⌑",
+    "copy": "Warm solid-wood character without compromising on everyday cable management.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "frame-mini",
+    "category": "desks",
+    "title": "Frame Mini",
+    "score": 8.2,
+    "art": "⌐",
+    "copy": "The strongest small-space standing desk for an apartment setup.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "frame-one-webcam",
+    "category": "video",
+    "title": "Frame One Webcam",
+    "score": 8.8,
+    "art": "◉",
+    "copy": "Natural color, low-light composure, and zero friction on a busy Monday.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "studio-light-bar",
+    "category": "video",
+    "title": "Studio Light Bar",
+    "score": 8.6,
+    "art": "◒",
+    "copy": "Soft, flattering light that disappears into your monitor setup.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "soundboard-mini",
+    "category": "video",
+    "title": "Soundboard Mini",
+    "score": 8.4,
+    "art": "◌",
+    "copy": "Small desktop audio with remarkable voice clarity for calls.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "orbit-focus",
+    "category": "software",
+    "title": "Orbit Focus",
+    "score": 9.1,
+    "art": "◐",
+    "copy": "The calmest way we have found to shape a week around meaningful work.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "papertrail-notes",
+    "category": "software",
+    "title": "Papertrail Notes",
+    "score": 8.9,
+    "art": "▱",
+    "copy": "A thoughtful note system that gets out of your way at exactly the right time.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  },
+  {
+    "id": "pulse-planner",
+    "category": "software",
+    "title": "Pulse Planner",
+    "score": 8.3,
+    "art": "✦",
+    "copy": "A less anxious approach to project planning for small, remote teams.",
+    "imageUrl": "",
+    "createdAt": "2026-07-31T09:00:00.000Z",
+    "updatedAt": "2026-07-31T09:00:00.000Z"
+  }
+]
